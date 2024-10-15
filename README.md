@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbansall&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbansall" /> </p>
 
+[![An image of @anuragbansall's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragbansall)](https://holopin.io/@anuragbansall)
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://www.anuragbansal.me](https://www.anuragbansal.me)
@@ -22,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbansall&" alt="anuragbansall" /></p>
 
-[![An image of @anuragbansall's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragbansall)](https://holopin.io/@anuragbansall)
+
